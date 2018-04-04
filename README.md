@@ -1,1 +1,2 @@
-# Donor-Chose
+Donor chose is an USA based NGO which helps teachers get funding for their school projects. A typical proposal includes two essays explaning about their school and the project. It also includes all the list of items required for project and their respective price. In the current system, each project proposal is evaluated by a volunter and will be approved or rejected. Once approved the project will be visible in the website for potential donors.
+Over the years the number of proposals have increased exponentially and has reached 500000 proposals for the year 2018. In this project we are  attempting to build a machine learning algorithm to extract features from text and automate the project review process.
